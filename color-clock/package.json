@@ -1,0 +1,21 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "A clock app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm-lab-dumbo-web-120919"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Kevin/LearnCo",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
